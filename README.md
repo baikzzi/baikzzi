@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### 데이터분석과 백지환입니다.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlghks120)](https://solved.ac/wlghks120/)
 
 <!--
